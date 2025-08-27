@@ -41,6 +41,6 @@ Write a Python program that:
 2. Run the programs using Python 3:
 
 ```bash
-python read_file.py
-python write_append_file.py
+python Task1.py
+python Task2.py
 
